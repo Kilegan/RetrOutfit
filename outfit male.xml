@@ -1,0 +1,67 @@
+<outfit id="1" premium="no"> <list gender="1" looktype="128" name="Citizen"  /> </outfit>
+<outfit id="2" premium="no"> <list gender="1" looktype="129" name="Hunter"  /> </outfit>
+<outfit id="3" premium="no"> <list gender="1" looktype="130" name="Mage"  /> </outfit>
+<outfit id="4" premium="no"> <list gender="1" looktype="131" name="Knight"  /> </outfit>
+<outfit id="5" premium="yes"> <list gender="1" looktype="132" name="Nobleman"  /> </outfit>
+<outfit id="6" premium="yes"> <list gender="1" looktype="133" name="Summoner"  /> </outfit>
+<outfit id="7" premium="yes"> <list gender="1" looktype="134" name="Warrior"  /> </outfit>
+<outfit id="8" premium="yes"> <list gender="1" looktype="143" name="Barbarian"  /> </outfit>
+<outfit id="9" premium="yes"> <list gender="1" looktype="144" name="Druid"  /> </outfit>
+<outfit id="10" premium="yes"> <list gender="1" looktype="145" name="Wizard"  /> </outfit>
+<outfit id="11" premium="yes"> <list gender="1" looktype="146" name="Oriental"  /> </outfit>
+<outfit id="12" premium="yes"> <list gender="1" looktype="151" name="Pirate"  /> </outfit>
+<outfit id="13" premium="yes"> <list gender="1" looktype="152" name="Assassin"  /> </outfit>
+<outfit id="14" premium="yes"> <list gender="1" looktype="153" name="Beggar"  /> </outfit>
+<outfit id="15" premium="yes"> <list gender="1" looktype="154" name="Shaman"  /> </outfit>
+<outfit id="16" premium="yes"> <list gender="1" looktype="251" name="Norseman"  /> </outfit>
+<outfit id="17" premium="yes"> <list gender="1" looktype="268" name="Nightmare"  /> </outfit>
+<outfit id="18" premium="yes"> <list gender="1" looktype="273" name="Jester"  /> </outfit>
+<outfit id="19" premium="yes"> <list gender="1" looktype="278" name="Brotherhood"  /> </outfit>
+<outfit id="20" premium="yes"> <list gender="1" looktype="289" name="Demon Hunter"  /> </outfit>
+<outfit id="21" premium="yes"> <list gender="1" looktype="325" name="Yalaharian"  /> </outfit>
+<outfit id="22" premium="yes"> <list gender="1" looktype="328" name="Newly Wed"  /> </outfit>
+<outfit id="23" premium="yes"> <list gender="1" looktype="335" name="Warmaster"  /> </outfit>
+<outfit id="24" premium="yes"> <list gender="1" looktype="367" name="Wayfarer"  /> </outfit>
+<outfit id="25" premium="yes"> <list gender="1" looktype="430" name="Afflicted"  /> </outfit>
+<outfit id="26" premium="yes"> <list gender="1" looktype="432" name="Elementalist"  /> </outfit>
+<outfit id="27" premium="yes"> <list gender="1" looktype="463" name="Deepling"  /> </outfit>
+<outfit id="28" premium="yes"> <list gender="1" looktype="465" name="Insectoid"  /> </outfit>
+<outfit id="29" premium="yes"> <list gender="1" looktype="472" name="Entrepreneur"  /> </outfit>
+<outfit id="30" premium="yes"> <list gender="1" looktype="512" name="Crystal Warlord"  /> </outfit>
+<outfit id="31" premium="yes"> <list gender="1" looktype="516" name="Soil Guardian"  /> </outfit>
+<outfit id="32" premium="yes"> <list gender="1" looktype="541" name="Demon Outfit"  /> </outfit>
+<outfit id="33" premium="yes"> <list gender="1" looktype="574" name="Cave Explorer"  /> </outfit>
+<outfit id="34" premium="yes"> <list gender="1" looktype="577" name="Dream Warden"  /> </outfit>
+<outfit id="35" premium="yes"> <list gender="1" looktype="610" name="Glooth Engineer"  /> </outfit>
+<outfit id="36" premium="yes"> <list gender="1" looktype="619" name="Jersey"  /> </outfit>
+<outfit id="37" premium="yes"> <list gender="1" looktype="633" name="Champion"  /> </outfit>
+<outfit id="38" premium="yes"> <list gender="1" looktype="634" name="Conjurer"  /> </outfit>
+<outfit id="39" premium="yes"> <list gender="1" looktype="637" name="Beastmaster"  /> </outfit>
+<outfit id="40" premium="yes"> <list gender="1" looktype="665" name="Chaos Acolyte"  /> </outfit>
+<outfit id="41" premium="yes"> <list gender="1" looktype="667" name="Death Herald"  /> </outfit>
+<outfit id="42" premium="yes"> <list gender="1" looktype="684" name="Ranger"  /> </outfit>
+<outfit id="43" premium="yes"> <list gender="1" looktype="695" name="Ceremonial Garb"  /> </outfit>
+<outfit id="44" premium="yes"> <list gender="1" looktype="697" name="Puppeteer"  /> </outfit>
+<outfit id="45" premium="yes"> <list gender="1" looktype="699" name="Spirit Caller"  /> </outfit>
+<outfit id="46" premium="yes"> <list gender="1" looktype="725" name="Evoker"  /> </outfit>
+<outfit id="47" premium="yes"> <list gender="1" looktype="733" name="Seaweaver"  /> </outfit>
+<outfit id="48" premium="yes"> <list gender="1" looktype="746" name="Recruiter"  /> </outfit>
+<outfit id="49" premium="yes"> <list gender="1" looktype="750" name="Sea Dog"  /> </outfit>
+<outfit id="50" premium="yes"> <list gender="1" looktype="760" name="Royal Pumpkin"  /> </outfit>
+<outfit id="51" premium="yes"> <list gender="1" looktype="846" name="Rift Warrior"  /> </outfit>
+<outfit id="52" premium="yes"> <list gender="1" looktype="853" name="Winter Warden"  /> </outfit>
+<outfit id="53" premium="yes"> <list gender="1" looktype="873" name="Philosopher"  /> </outfit>
+<outfit id="54" premium="yes"> <list gender="1" looktype="884" name="Arena Champion"  /> </outfit>
+<outfit id="55" premium="yes"> <list gender="1" looktype="899" name="Lupine Warden"  /> </outfit>
+<outfit id="56" premium="yes"> <list gender="1" looktype="908" name="Grove Keeper"  /> </outfit>
+<outfit id="57" premium="yes"> <list gender="1" looktype="931" name="Festive Outfit"  /> </outfit>
+<outfit id="58" premium="yes"> <list gender="1" looktype="955" name="Pharaoh"  /> </outfit>
+<outfit id="59" premium="yes"> <list gender="1" looktype="957" name="Trophy Hunter"  /> </outfit>
+<outfit id="60" premium="yes"> <list gender="1" looktype="962" name="Retro Warrior"  /> </outfit>
+<outfit id="61" premium="yes"> <list gender="1" looktype="964" name="Retro Summoner"  /> </outfit>
+<outfit id="62" premium="yes"> <list gender="1" looktype="966" name="Retro Nobleman"  /> </outfit>
+<outfit id="63" premium="yes"> <list gender="1" looktype="968" name="Retro Wizard"  /> </outfit>
+<outfit id="64" premium="yes"> <list gender="1" looktype="970" name="Retro Knight"  /> </outfit>
+<outfit id="65" premium="yes"> <list gender="1" looktype="972" name="Retro Hunter"  /> </outfit>
+<outfit id="66" premium="yes"> <list gender="1" looktype="974" name="Retro Citizen"  /> </outfit>
+<outfit id="67" premium="yes"> <list gender="1" looktype="1021" name="New Addon"  /> </outfit>
